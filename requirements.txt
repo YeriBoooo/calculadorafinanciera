@@ -10,3 +10,4 @@ python-dotenv>=1.0.0
 kaleido
 google-generativeai
 fpdf2>=2.7.0
+resend
